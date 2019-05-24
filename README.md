@@ -13,3 +13,6 @@ python adv_train.py --num-pgd 40 --mode l2 --eps 1.5 --pgd-lr 0.3 --no-norm --no
 
 Please also clone the repo in
 https://github.com/JianGoForIt/YellowFin_Pytorch.git
+
+
+The folder adv_celeba contains source code for the celeba adversarial training.
