@@ -4,6 +4,11 @@ Code for NeurIPS submission 8302
 To download source code and files for the DefenseGAN break, go to 
 https://drive.google.com/file/d/15rpmyaq6clZBMHbXvjs5CrdrY2lJpOA3/view?usp=sharing
 
+unzip the file using 
+
+tar -xvf defense_gan_break.tar
+
+
 To run the DefenseGAN break experiments, run the file make_intermediates.py in the folder break/
 
 
