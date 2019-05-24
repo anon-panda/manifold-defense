@@ -1,0 +1,22 @@
+INFO  2019-05-24T15:16:51.081 19347 on_process_exit:385: exited: pid=19349 status=0 stoptime=0
+INFO  2019-05-24T15:16:51.082 19347 channel_create_event:207: new channel 3 (function <SNR>69_on_warmup[7]..<SNR>69_try_rnotify[2]..yarp#core#try_notify[1]..yarp#core#jobstart[2]..yarp#pyx#init[7]..<SNR>72_py3exe[8]..provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2019-05-24T15:16:51.134 19347 channel_create_event:207: new channel 4 (function <SNR>69_on_warmup[7]..<SNR>69_try_rnotify[2]..yarp#core#try_notify[1]..yarp#core#jobstart[2]..yarp#pyx#init[20]..yarp#core#jobstart:16) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2019-05-24T15:16:51.160 19347 main:593: starting main loop
+INFO  2019-05-24T15:16:51.183 19347 channel_create_event:207: new channel 5 (/tmp/nvimHYXr72/0) : {"id": 5, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2019-05-24T15:17:38.492 19347 channel_create_event:207: new channel 6 (function ncm2#_warmup_sources[18]..ncm2_jedi#on_warmup[1]..yarp#core#jobstart[2]..yarp#pyx#init[20]..yarp#core#jobstart:16) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2019-05-24T15:17:38.493 19347 channel_create_event:207: new channel 7 (function ncm2#_warmup_sources[18]..ncm2_path#on_warmup[1]..yarp#core#jobstart[2]..yarp#pyx#init[20]..yarp#core#jobstart:16) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2019-05-24T15:17:38.494 19347 channel_create_event:207: new channel 8 (function ncm2#_warmup_sources[18]..ncm2_bufword#on_warmup[1]..yarp#core#jobstart[2]..yarp#pyx#init[20]..yarp#core#jobstart:16) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2019-05-24T15:17:38.541 19347 channel_create_event:207: new channel 9 (/tmp/nvimHYXr72/0) : {"id": 9, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2019-05-24T15:17:38.542 19347 channel_create_event:207: new channel 10 (/tmp/nvimHYXr72/0) : {"id": 10, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2019-05-24T15:17:38.543 19347 channel_create_event:207: new channel 11 (/tmp/nvimHYXr72/0) : {"id": 11, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2019-05-24T15:20:44.952 19347 os_proc_tree_kill:96: sending SIGTERM to process group: -19350
+INFO  2019-05-24T15:20:44.952 19347 os_proc_tree_kill:96: sending SIGTERM to process group: -19351
+INFO  2019-05-24T15:20:44.952 19347 os_proc_tree_kill:96: sending SIGTERM to process group: -19377
+INFO  2019-05-24T15:20:44.952 19347 os_proc_tree_kill:96: sending SIGTERM to process group: -19378
+INFO  2019-05-24T15:20:44.952 19347 os_proc_tree_kill:96: sending SIGTERM to process group: -19379
+INFO  2019-05-24T15:20:44.977 19347 on_process_exit:385: exited: pid=19378 status=0 stoptime=5116711236253686
+INFO  2019-05-24T15:20:44.977 19347 on_process_exit:385: exited: pid=19379 status=0 stoptime=5116711236283520
+INFO  2019-05-24T15:20:44.983 19347 on_process_exit:385: exited: pid=19351 status=0 stoptime=5116711236183462
+INFO  2019-05-24T15:20:44.984 19347 on_process_exit:385: exited: pid=19377 status=0 stoptime=5116711236220372
+INFO  2019-05-24T15:20:44.987 19347 on_process_exit:385: exited: pid=19350 status=0 stoptime=5116711236090512
+INFO  2019-05-24T15:20:44.987 19347 mch_exit:152: Nvim exit: 0
