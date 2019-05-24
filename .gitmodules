@@ -1,0 +1,3 @@
+[submodule "YellowFin_Pytorch"]
+	path = YellowFin_Pytorch
+	url = https://github.com/JianGoForIt/YellowFin_Pytorch.git
